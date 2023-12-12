@@ -30,6 +30,7 @@ a {
 a:hover {
   color: #333;
   letter-spacing: 1px;
+  text-decoration: underline;
 }
 
 
